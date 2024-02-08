@@ -27,7 +27,7 @@ These instructions will help you set up and run the credit card validator micros
 
 4. Run the Docker image:
   ```bash
- docker run -p 8080:8080 creditcardvalidator
+   docker run -p 8080:8080 creditcardvalidator
 
 
 
